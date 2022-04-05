@@ -172,7 +172,8 @@ footer {
     }
 
     h1 {
-        margin: 25px auto;
+        margin: 35px auto;
+    
     }
 
     .navbar .container ul{
@@ -187,6 +188,10 @@ footer {
     .action .container {
         justify-content: space-between;
         flex-direction: column;        
+    }
+
+    .navbar {
+        margin-top: 15px;
     }
 
     
